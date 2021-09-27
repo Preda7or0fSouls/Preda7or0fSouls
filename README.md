@@ -7,6 +7,7 @@
       -->Instagram:@carlosoleroig
       -->Linkedin:https://www.linkedin.com/in/carlos-soler-roig-2806bb138/
       -->Twitter:@charlysolerroig
+      -->Email:carlos.soler.roig1994@gmail.com
 - I know programking with this programming languages:
     -->Java
     -->C
