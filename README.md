@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Carlos Soler Roig i´m 27th years old and i´m from Castellon(Spain)
 - 👀 I’m interested in programing lenguajes,software developer,hardware,mobile phones,web devoloper,app developer....
 - 🌱 I’m currently learning DAW(Web Application Developer)
-- 💞️ I’m looking to collaborate on Fronted Web Developer,programing with C,Java,Javascript.... 
+- 💞️ I’m looking to collaborate on Fronted Web Developer (I´d like work in Front-Web) or programing with C,Java,Javascript,Python,C++,C+ 
 - 📫 How to reach me in :
 - 
       -->Facebook:https://www.facebook.com/carlosoleroig/
