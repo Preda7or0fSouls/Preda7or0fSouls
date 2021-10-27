@@ -10,21 +10,37 @@
       -->Email:carlos.soler.roig1994@gmail.com
 - I know programking with this programming languages:
     -->Java
+    
     -->C
+    
     -->C++
+    
     -->Python
+    
     -->Javascript
+    
     -->SQL
+    
     -->PHP
+    
     -->Cobol
+    
     -->C#
+    
     -->Ruby
+    
     -->CSS
+    
     -->HTML
+    
     -->XML
+    
     -->XHTML
+    
     -->Dark
+    
     -->Android
+    
     -->VisualBasic
     
 See more information for me in linkedin: https://www.linkedin.com/in/carlos-soler-roig-2806bb138/<!---
